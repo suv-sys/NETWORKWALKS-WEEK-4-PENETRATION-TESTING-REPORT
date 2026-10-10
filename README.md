@@ -16,7 +16,7 @@ The robots.txt file was reviewed and contained the following entries:
 The login page at patient/login.php returned different responses for a nonexistent username and an incorrect password. A single quote in the username input also caused a MySQL syntax error to be displayed.
 These observations support the reported findings of username enumeration and SQL injection in the login flow.
 
-
+![](screenshots/kali1.png)
 
 ## Milestone 2 — Patient PDF Review
 The lab workflow covered password-protected patient-report PDF files. The assessment notes recorded that the PDF passwords were recoverable using the lab's password-recovery workflow.
