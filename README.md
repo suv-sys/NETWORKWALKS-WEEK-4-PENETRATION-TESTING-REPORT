@@ -26,7 +26,7 @@ The findings summary reports that PDFs were accessible after the login bypass an
 ![](screenshots/kali9.png)
 ![](screenshots/kali10.png)
 ![](screenshots/kali11.png)
-![](screenshots/Screenshot(237).png)
+
 
 
 ## Milestone 3 — Deep Reconnaissance
