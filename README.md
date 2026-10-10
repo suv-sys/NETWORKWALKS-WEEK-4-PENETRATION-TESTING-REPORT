@@ -22,13 +22,18 @@ These observations support the reported findings of username enumeration and SQL
 ## Milestone 2 — Patient PDF Review
 The lab workflow covered password-protected patient-report PDF files. The assessment notes recorded that the PDF passwords were recoverable using the lab's password-recovery workflow.
 The findings summary reports that PDFs were accessible after the login bypass and that weak PDF passwords could be recovered with a wordlist. Patient-report contents and passwords are intentionally not reproduced in this repository.
-
+![](screenshots/kali7.png)
+![](screenshots/kali9.png)
+![](screenshots/kali10.png)
+![](screenshots/kali11.png)
 
 
 ## Milestone 3 — Deep Reconnaissance
 The path /old/ displayed a directory index containing mediroza_db_backup_2019.sql.
 
 The SQL backup contained staff records, including job titles, departments and salaries, and shareholder records, including ownership percentages and share classes. The PDF metadata also contained an author identifier and a comment referring to the /old/ backup location. The identifier correlated with a staff record for an IT Systems Administrator; this correlation does not establish intent or responsibility.
+![](screenshots/m4.png)
+
 
 ## Milestone 4 — Findings Summary
 
