@@ -17,7 +17,8 @@ The login page at patient/login.php returned different responses for a nonexiste
 These observations support the reported findings of username enumeration and SQL injection in the login flow.
 
 ![](screenshots/kali1.png)
-
+![](screenshots/kali4.png)
+![](screenshots/kali6.png)
 ## Milestone 2 — Patient PDF Review
 The lab workflow covered password-protected patient-report PDF files. The assessment notes recorded that the PDF passwords were recoverable using the lab's password-recovery workflow.
 The findings summary reports that PDFs were accessible after the login bypass and that weak PDF passwords could be recovered with a wordlist. Patient-report contents and passwords are intentionally not reproduced in this repository.
